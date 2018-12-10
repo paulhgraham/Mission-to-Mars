@@ -33,7 +33,7 @@ Make sure to save a complete url string for this image.
 
 
 # Example:
-featured_image_url = 'https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA16225_hires.jpg'
+featured_image_url = [](https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA16225_hires.jpg)
 
 Mars Weather
 
